@@ -1,0 +1,29 @@
+_repo: Origin-of-modern-calculating-machines_69386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turck, J. A. V.
+    gutenberg_agent_id: '55237'
+    url: http://www.gutenberg.org/2009/agents/55237
+description: ''
+gutenberg_issued: '2022-11-19'
+identifiers:
+  gutenberg: '69386'
+  lccn: '21004878'
+language: en
+pgterms:marc904: https://archive.org/details/originofmodernca00turcrich
+pgterms:marc905: 20220810092918turck
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: The Western Society of Engineers,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calculators'
+- !lcc 'QA'
+- GITenberg
+title: Origin of modern calculating machines
+url: http://www.gutenberg.org/ebooks/69386
