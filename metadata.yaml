@@ -1,11 +1,16 @@
 _repo: Origin-of-modern-calculating-machines_69386
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69386-h/images/cover.jpg
 creator:
   author:
     agent_name: Turck, J. A. V.
     gutenberg_agent_id: '55237'
     url: http://www.gutenberg.org/2009/agents/55237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69386#Origin-of-modern-calculating-machines
 gutenberg_issued: '2022-11-19'
 identifiers:
   gutenberg: '69386'
